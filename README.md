@@ -14,7 +14,7 @@ An app for connecting and controlling a Robot
 
 <p>
 Find video implementation here
-[![RobNex UI Speed coding in Flutter](https://img.youtube.com/vi/fEjxGu-_SQc/0.jpg)](https://www.youtube.com/watch?v=fEjxGu-_SQc&ab_channel=EtornamSunu "RobNex UI Speed coding in Flutter")
+[![RobNex UI Speed coding in Flutter](https://github.com/RegNex/RobNex/blob/main/screenshots/main.png?raw=true)](https://www.youtube.com/watch?v=fEjxGu-_SQc&ab_channel=EtornamSunu "RobNex UI Speed coding in Flutter")
 </p>
 
 ## Art
